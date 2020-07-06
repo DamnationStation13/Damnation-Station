@@ -1,10 +1,10 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-DIR: code code\controllers code\controllers\subsystem code\game code\game\jobs code\game\machinery code\modules code\modules\admin config\title_screens config\title_screens\images goon goon\code goon\code\datums sound sound\music 
+DIR: code code\controllers code\controllers\subsystem code\defines code\defines\procs code\game code\game\jobs code\game\machinery code\modules code\modules\admin config\title_screens config\title_screens\images goon goon\code goon\code\datums icons interface sound sound\music 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-WINDOW: code\controllers\configuration.dm;code\controllers\globals.dm;code\controllers\master.dm;code\controllers\subsystem.dm;code\defines\vox_sounds.dm;code\defines\procs\admin.dm;code\defines\procs\radio.dm;icons\badass.dmi;interface\skin.dmf;goon\code\datums\browserOutput.dm;_maps\__MAP_DEFINES.dm;_maps\cyberiad.dm;code\__DEFINES\_readme.dm;code\__DEFINES\bots.dm;code\__DEFINES\_tick.dm;code\__DEFINES\_spacemandmm.dm;code\__DEFINES\_globals.dm;code\__HELPERS\AnimationLibrary.dm;code\__HELPERS\files.dm;code\game\sound.dm;code\game\alternate_appearance.dm;code\game\data_huds.dm;code\game\gamemodes\setupgame.dm;code\game\gamemodes\game_mode.dm;code\game\area\areas.dm;code\game\area\ai_monitored.dm;code\game\gamemodes\extended\extended.dm;code\game\jobs\whitelist.dm;code\game\machinery\dance_machine.dm;code\controllers\subsystem\ticker.dm
+WINDOW: code\controllers\configuration.dm;code\controllers\globals.dm;code\controllers\master.dm;code\controllers\subsystem.dm;code\defines\vox_sounds.dm;code\defines\procs\admin.dm;code\defines\procs\radio.dm;icons\badass.dmi;interface\skin.dmf;code\controllers\subsystem\ticker.dm
 FILE: code\controllers\subsystem\ticker.dm
 */
 // END_INTERNALS
