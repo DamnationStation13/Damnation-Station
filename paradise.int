@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-DIR: code code\controllers code\controllers\subsystem code\defines code\defines\procs code\game code\game\jobs code\game\machinery code\modules code\modules\admin config\title_screens config\title_screens\images goon goon\code goon\code\datums icons interface sound sound\music 
+DIR: code code\controllers code\controllers\subsystem code\defines code\defines\procs code\game code\game\jobs code\game\machinery code\modules code\modules\admin config\title_screens config\title_screens\images goon goon\code goon\code\datums icons interface 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 WINDOW: code\controllers\configuration.dm;code\controllers\globals.dm;code\controllers\master.dm;code\controllers\subsystem.dm;code\defines\vox_sounds.dm;code\defines\procs\admin.dm;code\defines\procs\radio.dm;icons\badass.dmi;interface\skin.dmf;code\controllers\subsystem\ticker.dm
