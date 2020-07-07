@@ -79,12 +79,16 @@
 	icon_state = "dwarf"
 
 /datum/sprite_accessory/facial_hair/test
-	name = "This works"
+	name = "Works"
 	icon_state = "test"
 
 /datum/sprite_accessory/facial_hair/festive
 	name = "Festive Beard"
 	icon_state = "festive"
+
+/datum/sprite_accessory/facial_hair/less_festive
+	name = "Less Festive Beard"
+	icon_state = "less_festive"
 
 //////////////////////////////
 //////START VG HAIRSTYLES/////
