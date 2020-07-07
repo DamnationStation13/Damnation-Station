@@ -78,6 +78,10 @@
 	name = "Dwarf Beard"
 	icon_state = "dwarf"
 
+/datum/sprite_accessory/facial_hair/test
+	name = "This works"
+	icon_state = "test"
+
 /datum/sprite_accessory/facial_hair/festive
 	name = "Festive Beard"
 	icon_state = "festive"
