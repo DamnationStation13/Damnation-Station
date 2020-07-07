@@ -46,7 +46,7 @@
 	icon_state = "longbeard"
 
 /datum/sprite_accessory/facial_hair/vlongbeard
-	name = "Very Long Beard"
+	name = ""
 	icon_state = "wise"
 
 /datum/sprite_accessory/facial_hair/elvis
@@ -89,6 +89,10 @@
 /datum/sprite_accessory/facial_hair/less_festive
 	name = "Less Festive Beard"
 	icon_state = "less_festive"
+
+/datum/sprite_accessory/facial_hair/less_festive
+	name = "Short Festive Beard"
+	icon_state = "short_festive"
 
 //////////////////////////////
 //////START VG HAIRSTYLES/////
