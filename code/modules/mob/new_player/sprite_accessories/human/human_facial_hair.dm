@@ -78,6 +78,10 @@
 	name = "Dwarf Beard"
 	icon_state = "dwarf"
 
+/datum/sprite_accessory/facial_hair/dwarf
+	name = "Festive"
+	icon_state = "festive"
+
 //////////////////////////////
 //////START VG HAIRSTYLES/////
 //////////////////////////////
