@@ -9,10 +9,10 @@
     "gulp-clean-css": "^3.10.0",
     "js-url": "git+https://github.com/websanova/js-url.git",
     "less": "^3.11.3",
-    "less-loader": "^5.0.0",
+    "less-loader": "^11.1.0",
     "style-loader": "^1.2.1",
     "tslib": "^1.13.0",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "fs-extra": "^7.0.1",
